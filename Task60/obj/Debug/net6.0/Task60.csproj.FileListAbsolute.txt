@@ -1,0 +1,15 @@
+E:\работа с vcode\HomeWork19.05\Task60\bin\Debug\net6.0\Task60.exe
+E:\работа с vcode\HomeWork19.05\Task60\bin\Debug\net6.0\Task60.deps.json
+E:\работа с vcode\HomeWork19.05\Task60\bin\Debug\net6.0\Task60.runtimeconfig.json
+E:\работа с vcode\HomeWork19.05\Task60\bin\Debug\net6.0\Task60.dll
+E:\работа с vcode\HomeWork19.05\Task60\bin\Debug\net6.0\Task60.pdb
+E:\работа с vcode\HomeWork19.05\Task60\obj\Debug\net6.0\Task60.csproj.AssemblyReference.cache
+E:\работа с vcode\HomeWork19.05\Task60\obj\Debug\net6.0\Task60.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\HomeWork19.05\Task60\obj\Debug\net6.0\Task60.AssemblyInfoInputs.cache
+E:\работа с vcode\HomeWork19.05\Task60\obj\Debug\net6.0\Task60.AssemblyInfo.cs
+E:\работа с vcode\HomeWork19.05\Task60\obj\Debug\net6.0\Task60.csproj.CoreCompileInputs.cache
+E:\работа с vcode\HomeWork19.05\Task60\obj\Debug\net6.0\Task60.dll
+E:\работа с vcode\HomeWork19.05\Task60\obj\Debug\net6.0\refint\Task60.dll
+E:\работа с vcode\HomeWork19.05\Task60\obj\Debug\net6.0\Task60.pdb
+E:\работа с vcode\HomeWork19.05\Task60\obj\Debug\net6.0\Task60.genruntimeconfig.cache
+E:\работа с vcode\HomeWork19.05\Task60\obj\Debug\net6.0\ref\Task60.dll
